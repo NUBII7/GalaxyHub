@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+.header{
+    height: 100px;
+    margin-top: 20px ;
+    
+}
+.logo{
+    font-size: 35px;
+    margin-right: 800px ;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.logo:hover{
+    transform: scale(1.1);
+}
+.nav-bar{
+    left: 100px;
+    margin-right:20px ;
+    margin-left:20px ;
+}
+.poster{
+    display: flex;
+    
+#noob{
+    margin-left: 100px;
+    flex-direction: column;
+}
